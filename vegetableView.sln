@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vegetableView.Plugins", "vegetableView.Plugins.csproj", "{E3DB804D-98A5-C036-2E37-06B1A35BEDF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vegetableView", "vegetableView.csproj", "{FA1A9A68-508C-283C-6AE0-1183C1FE170D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vegetableView.Editor", "vegetableView.Editor.csproj", "{3B26F7F3-86C4-B1AB-0C5D-6D037860A96C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3DB804D-98A5-C036-2E37-06B1A35BEDF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3DB804D-98A5-C036-2E37-06B1A35BEDF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3DB804D-98A5-C036-2E37-06B1A35BEDF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3DB804D-98A5-C036-2E37-06B1A35BEDF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA1A9A68-508C-283C-6AE0-1183C1FE170D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1A9A68-508C-283C-6AE0-1183C1FE170D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1A9A68-508C-283C-6AE0-1183C1FE170D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1A9A68-508C-283C-6AE0-1183C1FE170D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B26F7F3-86C4-B1AB-0C5D-6D037860A96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B26F7F3-86C4-B1AB-0C5D-6D037860A96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B26F7F3-86C4-B1AB-0C5D-6D037860A96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B26F7F3-86C4-B1AB-0C5D-6D037860A96C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
