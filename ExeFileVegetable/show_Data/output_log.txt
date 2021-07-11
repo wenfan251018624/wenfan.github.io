@@ -1,0 +1,53 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   NVIDIA
+    VRAM:     4018 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\new\ExeFileOne\show_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\new\ExeFileOne\show_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\new\ExeFileOne\show_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\new\ExeFileOne\show_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\new\ExeFileOne\show_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\new\ExeFileOne\show_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\new\ExeFileOne\show_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\new\ExeFileOne\show_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\new\ExeFileOne\show_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\new\ExeFileOne\show_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\new\ExeFileOne\show_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\new\ExeFileOne\show_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\new\ExeFileOne\show_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\new\ExeFileOne\show_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\new\ExeFileOne\show_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\new\ExeFileOne\show_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.169 seconds
+Platform assembly: F:\new\ExeFileOne\show_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\new\ExeFileOne\show_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.572100 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2ed8 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.186800 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 16005.
+Total: 1.865500 ms (FindLiveObjects: 0.548600 ms CreateObjectMapping: 0.221100 ms MarkObjects: 1.073100 ms  DeleteObjects: 0.018600 ms)
+
+Platform assembly: F:\new\ExeFileOne\show_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.583300 ms
+
+Unloading 2567 unused Assets to reduce memory usage. Loaded Objects now: 507.
+Total: 4.406900 ms (FindLiveObjects: 0.090700 ms CreateObjectMapping: 0.071200 ms MarkObjects: 0.165200 ms  DeleteObjects: 4.079200 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.458400 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 16005.
+Total: 1.859700 ms (FindLiveObjects: 0.534800 ms CreateObjectMapping: 0.176000 ms MarkObjects: 1.128800 ms  DeleteObjects: 0.019500 ms)
+
